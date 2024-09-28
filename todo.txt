@@ -1,0 +1,3 @@
+1. fix menu re-load issue, i can't replay the game. probably since we're re-using the gameOver variable. 
+2. add explosions
+3. re-add support for tripple digit score
